@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #fff;
+}
+
+div {
+    padding: 30px;
+    background: #111;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+span {
+    color: #febe01;
+}
+
+p {
+    color: #b2b2b2;
+}
+
+button {
+    background: #febe01;
+    color: #332200;
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
