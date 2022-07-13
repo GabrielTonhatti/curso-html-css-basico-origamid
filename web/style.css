@@ -1,13 +1,7 @@
-img {
-    max-width: 100%;
-    width: 600px;
-    display: block;
-}
-
-.foto {
-    width: 150px;
-}
-
 body {
-    background: lightblue;
+    /* writing-mode: vertical-rl; */
+}
+
+h1 {
+    margin-top: 30px;
 }
